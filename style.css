@@ -1,0 +1,61 @@
+body {
+	background-color: black; 
+}
+
+h1 {
+	font-size: 100px;
+	color: white;
+	font-family: 'Butcherman', Times New Roman, cursive;
+	text-align: center;
+}
+
+
+p {
+	color: white;
+	font-size: 50px;
+	font-family: 'Butcherman', Times New Roman, cursive;
+	text-align: center;
+}
+
+.photo {
+	padding-left: 35px;
+}
+
+.container {
+	padding-top: 50px;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Butcherman', Times New Roman, cursive;
+}
+
+.second_container {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Butcherman', Times New Roman, cursive;
+}
+
+.button {
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Times;
+	text-align: center;
+}
+
+.row {
+	padding-top: 50px;
+}
+
+#choose {
+	height: 150px;
+	width: 300px;
+	margin: auto;
+	padding-top: 20px;
+	color: red;
+}
+
+#refresh {
+	font-family: Times;
+	text-align: center;
+}
